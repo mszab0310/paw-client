@@ -1,0 +1,9 @@
+.studentInputForm {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.label {
+  margin: 2px;
+}
